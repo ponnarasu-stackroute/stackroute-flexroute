@@ -11,7 +11,7 @@ Note: Flexbox layout is most appropriate to the components of an application, an
 
 #### sites to refer
 (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-for check the frontend code - (https://codepen.io/pen) online workspace
+for check the frontend code - (https://codepen.io/pen) online workspace using your usual usermail/password. pon*****.mc*****@gmail.com/v******
 demo url for today:
 (https://gitlab-cts.stackroute.in/K/paperbasedFlexLayout-slot2.git)
 
